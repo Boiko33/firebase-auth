@@ -1,0 +1,5 @@
+export const CHANGE_AUTH_FIELD = 'CHANGE_AUTH_FIELD';
+export const SET_USER = 'SET_USER';
+export const CLEAR_AUTH_FIELDS = 'CLEAR_AUTH_FIELDS';
+export const SET_SIGN_ERRORS = 'SET_SIGN_ERRORS';
+export const CLEAR_SIGN_ERRORS = 'CLEAR_SIGN_ERRORS';
