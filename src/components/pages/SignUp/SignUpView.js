@@ -9,7 +9,7 @@ const SignUpView = ({
   const { t } = useTranslation();
 
   const navigationHandler = () => {
-    history.push('/login');
+    history.push('/');
     clearSignErrors();
   };
 

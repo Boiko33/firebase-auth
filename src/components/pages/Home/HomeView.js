@@ -9,7 +9,7 @@ const HomeView = ({ history }) => {
 
   const handler = () => {
     fire.auth().signOut();
-    history.push('/logIn');
+    history.push('/');
   };
 
   return (
